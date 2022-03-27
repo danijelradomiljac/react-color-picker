@@ -1,0 +1,15 @@
+input {
+  height: 4rem;
+  font-size: 1.6rem;
+  text-align: center;
+  border: none;
+  border-radius: 5px;
+}
+
+label {
+  color: #fff;
+  padding: 1rem;
+  display: block;
+  text-align: center;
+  font-size: 1.6rem;
+}
